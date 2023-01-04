@@ -2,6 +2,9 @@
 
 Nesse projeto, com base na Aula ofertada pelo professor "Matheus Battisti" do Youtube, desenvolvi uma Calculadora de IMC.
 
+![Calculadora IMC I Tela I](https://user-images.githubusercontent.com/79064185/210631995-4ec62f21-fa5a-41d5-8562-3978173e1fea.png)
+![Calculadora IMC I Tela II](https://user-images.githubusercontent.com/79064185/210632286-95d0ca81-46b8-4651-b227-e28ad3b10802.png)
+
 ## Etapas de desenvolvimento do Projeto
 
 <details>
@@ -22,8 +25,6 @@ Nesse projeto, com base na Aula ofertada pelo professor "Matheus Battisti" do Yo
 ## 🔨 Funcionalidades do projeto
 
 Uma Calculadora de IMC, que mostra ao Usuário seu valor de IMC atual, e uma tabela detalhada sobre os valores e classificação de IMC em geral.
-
-![Gif I Calculadora IMC](https://user-images.githubusercontent.com/79064185/210630357-35153c4c-3649-480b-94dc-6acec5095b23.gif)
 
 ## ✔️ Tecnologias utilizadas
 
