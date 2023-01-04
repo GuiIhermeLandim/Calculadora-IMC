@@ -23,6 +23,8 @@ Nesse projeto, com base na Aula ofertada pelo professor "Matheus Battisti" do Yo
 
 Uma Calculadora de IMC, que mostra ao Usuário seu valor de IMC atual, e uma tabela detalhada sobre os valores e classificação de IMC em geral.
 
+![Gif I Calculadora IMC](https://user-images.githubusercontent.com/79064185/210630357-35153c4c-3649-480b-94dc-6acec5095b23.gif)
+
 ## ✔️ Tecnologias utilizadas
 
 O Projeto utilizou exclusivamente a linguagem JavaScript em seu Desenvolvimento.
