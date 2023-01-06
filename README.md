@@ -14,7 +14,7 @@ Nesse projeto, com base na Aula ofertada pelo professor "Matheus Battisti" do Yo
 
 <details>
   <summary><b>Estruturação</b></summary>
-    A estruturação do Projeto foi feito no VSCode, com as páginas HTML, e o posicionamento dos componentes/"boxex" com CSS.   
+    A estruturação do Projeto foi feito no VSCode, com as páginas HTML, e o posicionamento dos componentes/"box" com CSS.   
 </details>
 
 <details>
